@@ -1,0 +1,5 @@
+sku_id,model_name,screen_size_in,chip_tier,ram_options_gb,storage_options_gb,base_price_usd,launch_year
+MBA13,MacBook Air 13-inch,13.6,Base,8/16/24,256/512/1024,1099,2022
+MBA15,MacBook Air 15-inch,15.3,Base,8/16/24,256/512/1024,1299,2023
+MBP14,MacBook Pro 14-inch,14.2,Pro/Max,16/32/48,512/1024/2048,1999,2023
+MBP16,MacBook Pro 16-inch,16.2,Pro/Max,16/32/64,512/1024/2048/4096,2499,2023

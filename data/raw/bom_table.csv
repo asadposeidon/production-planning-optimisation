@@ -1,0 +1,39 @@
+sku_id,component,qty_per_unit
+MBA13,Display Panel 13in,1
+MBA13,Battery Pack (Air),1
+MBA13,Logic Board (Base Chip),1
+MBA13,RAM Module,1
+MBA13,SSD Module,1
+MBA13,"Chassis (Aluminum, Air)",1
+MBA13,Keyboard-Trackpad Assembly,1
+MBA13,Camera Module,1
+MBA13,Speaker-Mic Assembly,1
+MBA15,Display Panel 15in,1
+MBA15,Battery Pack (Air),1
+MBA15,Logic Board (Base Chip),1
+MBA15,RAM Module,1
+MBA15,SSD Module,1
+MBA15,"Chassis (Aluminum, Air)",1
+MBA15,Keyboard-Trackpad Assembly,1
+MBA15,Camera Module,1
+MBA15,Speaker-Mic Assembly,1
+MBP14,Display Panel 14in,1
+MBP14,Battery Pack (Pro),1
+MBP14,Logic Board (Pro/Max Chip),1
+MBP14,RAM Module,2
+MBP14,SSD Module,1
+MBP14,"Chassis (Aluminum, Pro)",1
+MBP14,Keyboard-Trackpad Assembly,1
+MBP14,Camera Module,1
+MBP14,Speaker-Mic Assembly,1
+MBP14,Cooling Fan Assembly,2
+MBP16,Display Panel 16in,1
+MBP16,Battery Pack (Pro),1
+MBP16,Logic Board (Pro/Max Chip),1
+MBP16,RAM Module,2
+MBP16,SSD Module,1
+MBP16,"Chassis (Aluminum, Pro)",1
+MBP16,Keyboard-Trackpad Assembly,1
+MBP16,Camera Module,1
+MBP16,Speaker-Mic Assembly,1
+MBP16,Cooling Fan Assembly,2

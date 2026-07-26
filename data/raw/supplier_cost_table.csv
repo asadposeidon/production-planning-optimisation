@@ -1,0 +1,24 @@
+component,supplier,region,unit_cost_usd,monthly_capacity_units,lead_time_days
+Display Panel 13in,LG Display Company Limited,South Korea,85,60000,21
+Display Panel 13in,Sharp Corporation,Japan,90,40000,25
+Display Panel 15in,LG Display Company Limited,South Korea,105,40000,21
+Display Panel 14in,Samsung Display,South Korea,120,45000,24
+Display Panel 14in,LG Display Company Limited,South Korea,118,35000,22
+Display Panel 16in,Samsung Display,South Korea,145,30000,26
+Battery Pack (Air),Simplo Technology Company Limited,China,18,90000,14
+Battery Pack (Air),Sunwoda Electronic Company Limited,China/Vietnam,17,80000,16
+Battery Pack (Pro),"Zhuhai CosMX Battery Co., Ltd.",China,24,60000,15
+Battery Pack (Pro),LG Energy Solution,South Korea,27,50000,18
+Logic Board (Base Chip),Taiwan Semiconductor Manufacturing Company,Taiwan,210,70000,45
+Logic Board (Pro/Max Chip),Taiwan Semiconductor Manufacturing Company,Taiwan,340,50000,50
+RAM Module,Micron Technology Incorporated,USA/Taiwan,14,150000,20
+RAM Module,SK hynix Incorporated,South Korea,13.5,140000,20
+SSD Module,Kioxia Holdings Corporation,Japan,22,120000,18
+SSD Module,SK hynix Incorporated,South Korea,21,110000,19
+"Chassis (Aluminum, Air)",Kam Kiu Aluminium Products Group Limited,China,32,75000,12
+"Chassis (Aluminum, Pro)",Kam Kiu Aluminium Products Group Limited,China,38,65000,12
+Keyboard-Trackpad Assembly,Primax Electronics Limited,China,15,100000,10
+Camera Module,Largan Precision Company Limited,Taiwan,9,130000,14
+Camera Module,Genius Electronic Optical Company Limited,China/Taiwan,8.5,120000,15
+Speaker-Mic Assembly,Knowles Corporation,China/Malaysia,6,140000,12
+Cooling Fan Assembly,Delta Electronics Incorporated,China/Taiwan,5,90000,10
