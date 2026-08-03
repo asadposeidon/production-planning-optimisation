@@ -9,3 +9,4 @@ pulp
 deap
 jupyter
 torch
+lightgbm
