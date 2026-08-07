@@ -1,0 +1,2 @@
+model,RMSE,MAE,MAPE,R2
+CatBoost,32.688,18.883,7.947,0.84

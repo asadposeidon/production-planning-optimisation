@@ -1,0 +1,2 @@
+model,RMSE,MAE,MAPE,R2
+Prophet,56.725,33.116,13.606,0.515
