@@ -1,10 +1,11 @@
 """Order History page."""
-
 import streamlit as st
-
 from app.services.orders import list_orders, update_order_status
+from app.ui import apply_theme, page_header
 
-st.title("Order History")
+st.set_page_config(page_title="Order History | Production Planning", page_icon="PP", layout="wide")
+apply_theme()
+page_header("Execution tracking", "Order History", "Review placed orders, track status, and update stock when materials arrive.")
 orders = list_orders()
 if not orders:
     st.info("No orders have been placed yet.")
@@ -13,6 +14,7 @@ else:
     st.dataframe(rows, use_container_width=True, hide_index=True)
     selected = st.selectbox("Select order", [o.id for o in orders])
     order = next(o for o in orders if o.id == selected)
+    st.subheader(f"Order #{order.id} details")
     st.dataframe([{"Material": item.material.material_id, "Name": item.material.name, "Suggested": float(item.suggested_quantity), "Final": float(item.final_quantity), "Edited": bool(item.was_edited), "Line total": float(item.line_total)} for item in order.items], use_container_width=True, hide_index=True)
     status = st.selectbox("Update status", ["Placed", "Shipped", "Received", "Cancelled"], index=["Placed", "Shipped", "Received", "Cancelled"].index(order.status) if order.status in ["Placed", "Shipped", "Received", "Cancelled"] else 0)
     if st.button("Save status"):
