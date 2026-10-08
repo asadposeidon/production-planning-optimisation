@@ -51,3 +51,9 @@ data/                     # Repository data and features
 ## Deployment note
 
 GitHub Pages hosts static HTML and cannot run a Python Streamlit backend. The complete source and model are stored in GitHub, but the working application should be run locally or deployed to Streamlit Community Cloud, Render, Railway, or another Python-capable host. GitHub Pages can be used for this README and project documentation only.
+
+## Permanent links
+
+- Interactive app: https://ppo-planning-app.streamlit.app/
+- Project landing page: https://asadposeidon.github.io/production-planning-optimisation/
+- Source repository: https://github.com/asadposeidon/production-planning-optimisation
